@@ -5,6 +5,8 @@ import random
 import flask
 from . import utils
 
+### SE SOLUCIONAN LOS SIMBOLOS DE INTEROGACIÓN PARA LOS DIFERENTES MÉTODOS INCOMPLETOS###
+
 from email.message import EmailMessage
 import smtplib
 
